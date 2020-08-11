@@ -2,16 +2,24 @@
 	"name": "posey/multiranks",
 	"type": "phpbb-extension",
 	"description": "Multi Ranks",
-	"homepage": "http://www.godfathertalks.com",
-	"version": "1.0.0",
-	"time": "2015-11-10",
+	"homepage": "https://asciicat.xyz",
+	"version": "2.0.0",
+	"time": "2020-08-11",
 	"license": "GPL-2.0",
-	"authors": [{
+	"authors": [
+		{
 			"name": "posey",
 			"email": "admin@godfathertalks.com",
 			"homepage": "http://www.godfathertalks.com",
-			"role": "Lead Developer"
-		}],
+			"role": "Orinal Lead Developer"
+		},
+		{
+			"name": "ASCIIcat",
+			"email": "asciicat@asciicat.xyz",
+			"homepage": "https://asciicat.xyz",
+			"role": "New Lead Developer(AKA Jackass that wanted to use this but with a few 'small' changes)"
+		}
+	],
 	"require": {
 		"php": ">=5.3.3"
 	},

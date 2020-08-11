@@ -3,11 +3,14 @@
 ## Description
 Allows you to give a user upto three special ranks!
 
+## ASCIIcat Edits:
+Removed rank titles because we got rank images yo...
+
 ## Installation
 
 Clone into phpBB/ext/posey/multiranks:
 
-    git clone https://github.com/MrGoldy/multiranks.git phpBB/ext/posey/multiranks
+    git clone https://github.com/ASCIIcat/multiranks.git phpBB/ext/posey/multiranks
 	
 Or download the zip and upload contents to phpBB/ext/posey/multiranks/
 
