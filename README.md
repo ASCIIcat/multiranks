@@ -1,5 +1,7 @@
 # phpBB 3.1 Extension - Multi Ranks
 
+[![Build Status](https://travis-ci.org/ASCIIcat/multiranks.svg?branch=master)](https://travis-ci.org/ASCIIcat/multiranks)
+
 ## Description
 Allows you to give a user upto three special ranks!
 
